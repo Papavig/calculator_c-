@@ -46,4 +46,7 @@ void abc::putdata(){
         c=a/b;
         cout<<"Answer: "<<c;
     }
+    else {
+        cout<<"invaid";
+    }
 }
